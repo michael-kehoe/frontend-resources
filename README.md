@@ -13,6 +13,9 @@ Random frontend resources
 * https://yoksel.github.io/flex-cheatsheet/
 * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
+### Functions
+* https://css-tricks.com/complete-guide-to-css-functions/
+
 ### Grid
 * https://css-tricks.com/snippets/css/complete-guide-grid/
 
