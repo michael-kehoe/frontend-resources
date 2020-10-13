@@ -19,6 +19,9 @@ Random frontend resources
 ### Grid
 * https://css-tricks.com/snippets/css/complete-guide-grid/
 
+### Fonts
+* https://fonts.adobe.com/fonts/
+
 ## Table
 * https://css-tricks.com/complete-guide-table-element/
 
